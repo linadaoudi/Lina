@@ -19,6 +19,9 @@ Analyse de la mortalité infantile due à la malaria et au virus du VIH dans dif
 ou bien installer avec pip les librairies python
 pip install library_name
 ```
+### Map 
+Ouvrir pour visualiser la map.
+La map obtenue a été réalisée à partir des données de mortalité infantile selon les continents.
 
 ## Comment exécuter ?
 Pour exécuter le projet, fair un git clone en utilisant la commande suivante : ```
