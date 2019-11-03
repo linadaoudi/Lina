@@ -25,7 +25,7 @@ Pour exécuter le projet, fair un git clone en utilisant la commande suivante : 
 ```
 git clone https://github.com/linadaoudi/Python-pour-la-data-Science
 ```
-Puis exécuter le script ``` python script_name```
+Puis exécuter le script ``` Projetpython.py```
 
 
 ## Binome 
