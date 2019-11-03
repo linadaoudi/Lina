@@ -16,7 +16,7 @@ Analyse de la mortalité infantile due à la malaria et au virus du VIH dans dif
 
 #### Pour l'installation des software mentionnés ci-dessus cliquer sur le nom du software.
 ```
-ou installer avec pip les librairies python
+ou bien installer avec pip les librairies python
 pip install library_name
 ```
 
