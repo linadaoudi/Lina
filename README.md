@@ -1,7 +1,9 @@
 # Python pour la Data Science
 # Projet dta science `BIO-4101A-DAOUDI-SEVEN`
 ## Dataset
-UNICEF Child death
+UNICEF Child mortality
+Continent child mortality
+child death
 
 ## Sujet 
 Analyse de la mortalité infantile due à la malaria et au virus du VIH dans différents pays selon les données de l’UNICEF.
